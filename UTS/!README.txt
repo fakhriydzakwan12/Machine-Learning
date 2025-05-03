@@ -1,4 +1,4 @@
-Pemilihan model terbaik sangat bergantung pada karakteristik data, seperti distribusi, skala, dan kompleksitas hubungan antar fitur.
-Feature selection dan preprocessing terbukti sebagai faktor krusial untuk meningkatkan performa model.
-Evaluasi yang menyeluruh dengan berbagai metrik memungkinkan penilaian yang lebih adil terhadap performa model.
-Secara umum, model ensemble (baik pada regresi maupun klasifikasi) dan KMeans (untuk clustering) menjadi pilihan optimal pada dataset yang digunakan.
+Pemilihan model yang tepat sangat ditentukan oleh sifat data, termasuk distribusinya, skala variabel, serta tingkat kompleksitas hubungan antar fitur.
+Proses seleksi fitur dan tahap prapemrosesan memiliki peran penting dalam meningkatkan kinerja model secara keseluruhan.
+Penggunaan berbagai metrik evaluasi secara menyeluruh memberikan gambaran performa model yang lebih objektif dan seimbang.
+Secara keseluruhan, model ensemble (baik untuk regresi maupun klasifikasi) serta algoritma KMeans (untuk clustering) terbukti menjadi alternatif terbaik untuk dataset yang dianalisis.
